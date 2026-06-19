@@ -1,2 +1,3 @@
-# Autonomous-Driving-Simulation-using-Reinforcement-Learning
-Autonomous Driving Simulation using Reinforcement Learning Description
+# Plant Diseases Detection-using-Machine-Learning and Deep Learning
+Plant Diseases Detection-using-Machine-Learning and Deep Learning Description
+
